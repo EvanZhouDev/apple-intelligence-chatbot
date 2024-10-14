@@ -1,0 +1,12 @@
+{
+  "name": "apple-intelligence-chatbot",
+  "version": "1.0.0",
+  "main": "chatbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "A chatbot powered by Apple Intelligence Writing Tool models."
+}
