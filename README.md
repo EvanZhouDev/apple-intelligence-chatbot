@@ -6,6 +6,14 @@ This is a proof-of-concept that it is possible to:
 
 Combining these two, here is a simple Chatbot, powered by Apple Intelligence models.
 
+## Contributing
+
+If you want to recreate this to run in more languages, simply add a PR, with a new file named `chatbot.[language]`!
+
+Also feel free to improve on my AppleScript. It's definitely not the most optimal right now.
+
+## Disclaimers
+
 This only works on Apple Intelligence-enabled Macs (all Apple Silicon Macs), and you must already have access to Writing Tools.
 
 Note that these models are not meant to be used as a Chatbot, and thus will not function extremely well.
