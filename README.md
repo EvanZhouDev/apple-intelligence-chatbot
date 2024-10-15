@@ -21,3 +21,5 @@ Note that these models are not meant to be used as a Chatbot, and thus will not 
 Furthermore, also ensure you have the Notes app **open** before running the command, or it may not work properly. Furthermore, do not interact with your computer while the automation is running.
 
 I am not responsible for anything that may go wrong due to the AppleScript automation.
+
+Make sure you have a notes folder called 'Apple Intelligence' before using it. Note: Case must match, it is case-sensitive.
