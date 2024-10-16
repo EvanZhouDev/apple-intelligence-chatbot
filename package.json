@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "main": "chatbot.js",
   "scripts": {
+    "start": "bun .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "A chatbot powered by Apple Intelligence Writing Tool models."
+  "description": "A chatbot powered by Apple Intelligence Writing Tool models.",
+  "dependencies": {
+    "express": "^4.21.1",
+    "uuid": "^10.0.0"
+  }
 }

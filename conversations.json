@@ -1,0 +1,10 @@
+{
+  "a6206c2f-97aa-4e15-bd82-3860d78e3ed6": {
+    "conversation": "[user (a6206c2f-97aa-4e15-bd82-3860d78e3ed6)]: Hello, how are you? [assistant]: Hello, how are you? [assistant]: \n",
+    "timestamp": "2024-10-16T20:51:26.124Z"
+  },
+  "6dd0553f-5b0d-45c1-997e-049dc4f95600": {
+    "conversation": "[user (6dd0553f-5b0d-45c1-997e-049dc4f95600)]: Hello, my name is [assistant]: Hello, my name is [assistant]. How can I assist you today? \n[user (6dd0553f-5b0d-45c1-997e-049dc4f95600)]: Please repeat what you said [assistant]: Hello, my name is [assistant]. How can I assist you today? [user (6dd0553f-5b0d-45c1-997e-049dc4f95600)]: Could you please repeat what you said? [assistant]: \n[user (6dd0553f-5b0d-45c1-997e-049dc4f95600)]: Please repeat what you said [assistant]: Hello, my name is [assistant]. How can I assist you today? \n",
+    "timestamp": "2024-10-16T20:54:14.326Z"
+  }
+}
